@@ -8,4 +8,4 @@ mpv DUMMY is a macOS app generated with [Automator](https://en.wikipedia.org/wik
 
 So it works as a (mostly) drop-in replacement, mpv DUMMY uses the same app name and icon as mpv. The bundle identifier is different so it can coexist with another installation of mpv on your system. mpv DUMMY is signed and notarised.
 
-[⤓ Download mpv DUMMY](https://github.com/vitorgalvao/mpv-dummy/releases/latest/download/mpv.DUMMY.zip)
+[⤓ Download mpv DUMMY](https://github.com/vitorgalvao/mpv-dummy/releases/latest/download/mpv.DUMMY.dmg)
